@@ -1,2 +1,3 @@
-# Exemplo-novo-repositorio
-Criando um repositório via site gitHub
+# Criando um repositório via site gitHub
+
+Fluxo de trabalho com GitHub e GitHub Desktop...
